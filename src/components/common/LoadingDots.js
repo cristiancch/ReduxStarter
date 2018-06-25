@@ -5,7 +5,7 @@ class LoadingDots extends React.Component {
     super(props, context);
     this.state = {
       frame: 1
-    }
+    };
   }
 
   componentDidMount() {
